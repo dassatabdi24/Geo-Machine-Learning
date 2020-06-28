@@ -5,7 +5,6 @@
 - gmap_sylhet_zoom_10.jpg.points : this is saved when gmap_sylhet_zoom_10_marked.jpg is georeferenced using marker coordinates
 - gmap_sylhet_zoom_10_georeferenced.tif : georeferenced image
 - bd_ntl.tif : this is to clip sylhet from bangladesh nightlight image
-- sylhet_ntl_zoom_10.tif : clipped ntl of sylhet (****)
-- sylhet_roads_zoom_10.tif : clipped gmap of sylhet (****)
-
-### sylhet_zoom_10.ipynb : codes of retrival, masking, superpositioning of sylhet ntl and gmap(on zoom level 10)
+- **sylhet_ntl_zoom_10.tif : clipped ntl of sylhet**
+- **sylhet_roads_zoom_10.tif : clipped gmap of sylhet**
+- **sylhet_zoom_10.ipynb : codes of retrival, masking, superpositioning of sylhet ntl and gmap(on zoom level 10)**
